@@ -1,0 +1,8 @@
+{
+  "name": "hyper-smooth-caret",
+  "version": "1.0.0",
+  "main": "index.js",
+  "keywords": ["hyper", "plugin", "cursor", "caret", "smooth", "animation"],
+  "author": "Adrian Nelson",
+  "license": "MIT"
+}
